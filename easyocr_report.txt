@@ -1,0 +1,5 @@
+=============================================================
+Report on testing EasyOCR (2023-01-22 22:41:55.985715):
+Accuracy on image num. 0: 81.15%;
+Accuracy on image num. 1: 22.66%;
+Accuracy on image num. 2: 21.64%;
