@@ -8,7 +8,7 @@ values = list(data.values())
 fig = plt.figure(figsize=(10, 5))
 
 # creating the bar plot
-plt.bar(courses, values, color='maroon',
+plt.bar(courses, values, color=['maroon', 'green', 'blue'],
         width=0.4)
 
 plt.xlabel("Name of OCR engines")
