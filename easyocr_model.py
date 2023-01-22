@@ -21,7 +21,7 @@ for photo in photo_list:
     if photo == 'groundtruth':
         break
 
-    text = reader.readtext('C:/Users/akezh/Desktop/another_dataset/0_bn.png', detail=0)
+    text = reader.readtext('C:/Users/akezh/Desktop/another_dataset/'+str(photo_num)+'_bn.png', detail=0)
     actual_text = str().join(text)
 
     with open('C:/Users/akezh/Desktop/another_dataset/groundtruth/'+str(photo_num)+'_bn.txt', 'r', encoding='utf-8') as f:
