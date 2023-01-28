@@ -1005,3 +1005,69 @@ Accuracy on image num. 997: 97.88%;
 Accuracy on image num. 998: 97.18%;
 Accuracy on image num. 999: 98.02%;
 Total average accuracy on 999 pictures dataset: 96.23%.
+=============================================================
+Report on testing Tesseract OCR (2023-01-27 21:39:32.763416):
+=============================================================
+Report on testing Tesseract OCR (2023-01-27 21:39:54.079504):
+Accuracy on image num. 0: {"initial_image": 95.88, "binarized_image": 95.87}%;
+Accuracy on image num. 1: {"initial_image": 94.93, "binarized_image": 94.83}%;
+Accuracy on image num. 2: {"initial_image": 98.58, "binarized_image": 98.58}%;
+Accuracy on image num. 3: {"initial_image": 97.52, "binarized_image": 97.49}%;
+Accuracy on image num. 4: {"initial_image": 96.58, "binarized_image": 96.58}%;
+Accuracy on image num. 5: {"initial_image": 96.66, "binarized_image": 96.66}%;
+Accuracy on image num. 6: {"initial_image": 96.75, "binarized_image": 96.75}%;
+Accuracy on image num. 7: {"initial_image": 97.34, "binarized_image": 97.34}%;
+Accuracy on image num. 8: {"initial_image": 97.27, "binarized_image": 97.27}%;
+Accuracy on image num. 9: {"initial_image": 98.36, "binarized_image": 98.37}%;
+Total average accuracy on 10 pictures dataset: 96.99%.
+=============================================================
+Report on testing Tesseract OCR (2023-01-27 21:43:55.265571):
+=============================================================
+Report on testing Tesseract OCR (2023-01-27 21:44:30.456713):
+=============================================================
+Report on testing Tesseract OCR (2023-01-27 21:44:43.027816):
+=============================================================
+Report on testing Tesseract OCR (2023-01-27 21:45:03.327027):
+=============================================================
+Report on testing Tesseract OCR (2023-01-27 21:45:26.949405):
+Accuracy on image num. 0: {"initial_image": 95.88, "binarized_image": 95.87}percent (%);
+Accuracy on image num. 1: {"initial_image": 94.93, "binarized_image": 94.83}percent (%);
+Accuracy on image num. 2: {"initial_image": 98.58, "binarized_image": 98.58}percent (%);
+Accuracy on image num. 3: {"initial_image": 97.52, "binarized_image": 97.49}percent (%);
+Accuracy on image num. 4: {"initial_image": 96.58, "binarized_image": 96.58}percent (%);
+Accuracy on image num. 5: {"initial_image": 96.66, "binarized_image": 96.66}percent (%);
+Accuracy on image num. 6: {"initial_image": 96.75, "binarized_image": 96.75}percent (%);
+Accuracy on image num. 7: {"initial_image": 97.34, "binarized_image": 97.34}percent (%);
+Accuracy on image num. 8: {"initial_image": 97.27, "binarized_image": 97.27}percent (%);
+Accuracy on image num. 9: {"initial_image": 98.36, "binarized_image": 98.37}percent (%);
+Total average accuracy on 10 pictures dataset: 96.99%.
+=============================================================
+Report on testing Tesseract OCR (2023-01-27 21:46:18.433533):
+Accuracy on image num. 0: {"initial_image": 95.88, "binarized_image": 95.87}percent (%);
+Accuracy on image num. 1: {"initial_image": 94.93, "binarized_image": 94.83}percent (%);
+Accuracy on image num. 2: {"initial_image": 98.58, "binarized_image": 98.58}percent (%);
+Accuracy on image num. 3: {"initial_image": 97.52, "binarized_image": 97.49}percent (%);
+Accuracy on image num. 4: {"initial_image": 96.58, "binarized_image": 96.58}percent (%);
+Accuracy on image num. 5: {"initial_image": 96.66, "binarized_image": 96.66}percent (%);
+Accuracy on image num. 6: {"initial_image": 96.75, "binarized_image": 96.75}percent (%);
+Accuracy on image num. 7: {"initial_image": 97.34, "binarized_image": 97.34}percent (%);
+Accuracy on image num. 8: {"initial_image": 97.27, "binarized_image": 97.27}percent (%);
+Accuracy on image num. 9: {"initial_image": 98.36, "binarized_image": 98.37}percent (%);
+Total average accuracy on 10 pictures dataset: 96.99%.
+=============================================================
+Report on testing Tesseract OCR (2023-01-27 22:37:57.021079):
+Accuracy on image num. 0: {"initial_image": 95.88, "binarized_image": 95.87}percent (%);
+Accuracy on image num. 1: {"initial_image": 94.93, "binarized_image": 94.83}percent (%);
+Accuracy on image num. 2: {"initial_image": 98.58, "binarized_image": 98.58}percent (%);
+Accuracy on image num. 3: {"initial_image": 97.52, "binarized_image": 97.49}percent (%);
+Accuracy on image num. 4: {"initial_image": 96.58, "binarized_image": 96.58}percent (%);
+Accuracy on image num. 5: {"initial_image": 96.66, "binarized_image": 96.66}percent (%);
+Accuracy on image num. 6: {"initial_image": 96.75, "binarized_image": 96.75}percent (%);
+Accuracy on image num. 7: {"initial_image": 97.34, "binarized_image": 97.34}percent (%);
+Accuracy on image num. 8: {"initial_image": 97.27, "binarized_image": 97.27}percent (%);
+Accuracy on image num. 9: {"initial_image": 98.36, "binarized_image": 98.37}percent (%);
+Total average accuracy on 10 pictures dataset: 96.99%.
+%, on binarized image: 96.97%.=============================================================
+Report on testing Tesseract OCR (2023-01-27 22:49:53.560198):
+Accuracy on image num. 0: {"initial_image": 95.88, "binarized_image": 95.87}percent (%);
+Accuracy on image num. 1: {"initial_image": 94.93, "binarized_image": 94.83}percent (%);
